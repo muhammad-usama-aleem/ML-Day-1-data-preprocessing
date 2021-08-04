@@ -14,4 +14,3 @@ the preprocessing_template.py file contains the most used processes, used in the
 * Importing Libraries
 * Importing datasets
 * splitting dataset into the training set and testing set
-* featuring scaling
